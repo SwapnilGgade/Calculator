@@ -1,0 +1,23 @@
+#Calculators{
+    height: 400px;
+    width: 400px;
+    background: linear-gradient(green, lightgrey);
+    color: black;
+    font-size: x-large;
+    text-align: center;
+}
+
+#calcScreen{
+    height: 35px;
+    width: 100%;
+    background-color: white;
+}
+
+#calcScreen input{
+    padding: 10px;
+    padding-left: 35vw;
+}
+
+td:hover{
+    background-color: rgb(159, 243, 159);
+}
